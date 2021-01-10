@@ -1,0 +1,15 @@
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\bin\Release\SampleVendingMachine.exe.config
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\bin\Release\SampleVendingMachine.exe
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\bin\Release\SampleVendingMachine.pdb
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Release\SampleVendingMachine.csprojAssemblyReference.cache
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Release\MainWindow.g.cs
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Release\App.g.cs
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Release\SampleVendingMachine_MarkupCompile.cache
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Release\SampleVendingMachine_MarkupCompile.lref
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Release\MainWindow.baml
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Release\SampleVendingMachine.g.resources
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Release\SampleVendingMachine.Properties.Resources.resources
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Release\SampleVendingMachine.csproj.GenerateResource.cache
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Release\SampleVendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Release\SampleVendingMachine.exe
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Release\SampleVendingMachine.pdb

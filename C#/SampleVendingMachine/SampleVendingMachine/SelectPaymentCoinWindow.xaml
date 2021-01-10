@@ -1,0 +1,18 @@
+﻿<Window x:Class="SampleVendingMachine.SelectPaymentCoinWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SampleVendingMachine"
+        mc:Ignorable="d"
+        Title="SelectPaymentCoinWindow" Height="543.608" Width="165.695"
+        >
+    <Grid>
+        <Ellipse x:Name="TEN" Fill="#FFD36E1A" HorizontalAlignment="Left" Height="118" Margin="18,10,0,0" Stroke="Black" VerticalAlignment="Top" Width="118" MouseLeftButtonDown="SelectPaymentCoin_MouseLeftDown"/>
+        <Ellipse x:Name="FIFTY" Fill="#33000000" HorizontalAlignment="Left" Height="106" Margin="25,133,0,0" Stroke="Black" VerticalAlignment="Top" Width="104" MouseLeftButtonDown="SelectPaymentCoin_MouseLeftDown"/>
+        <Ellipse x:Name="HANDRED" Fill="#33000000" HorizontalAlignment="Left" Height="113" Margin="20,244,0,0" Stroke="Black" VerticalAlignment="Top" Width="113" MouseLeftButtonDown="SelectPaymentCoin_MouseLeftDown"/>
+        <Ellipse x:Name="FIVE_HANDRED" Fill="#FFE6DB00" HorizontalAlignment="Left" Height="133" Margin="10,362,0,0" Stroke="Black" VerticalAlignment="Top" Width="133" MouseLeftButtonDown="SelectPaymentCoin_MouseLeftDown"/>
+        <Ellipse x:Name="FIFTY_CENTER" Fill="White" HorizontalAlignment="Left" Height="20" Margin="66,176,0,0" Stroke="Black" VerticalAlignment="Top" Width="20" MouseLeftButtonDown="SelectPaymentCoin_MouseLeftDown"/>
+
+    </Grid>
+</Window>

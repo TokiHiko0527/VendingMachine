@@ -1,0 +1,8 @@
+2020/12/30 16:30:24 [LOG]  : Start - VendingMachine Wakeup
+2020/12/30 16:30:26 [LOG]  : Send - 01,100
+2020/12/30 16:30:26 [LOG]  : Read - 1111,0000,0100,01,01,0000
+2020/12/30 16:30:26 [LOG]  : Update - GUIUpdate
+2020/12/30 16:30:27 [LOG]  : Send - 01,500
+2020/12/30 16:30:27 [LOG]  : Read - 1111,1111,0600,01,01,0000
+2020/12/30 16:30:27 [LOG]  : Update - GUIUpdate
+2020/12/30 16:30:30 [LOG]  : Closing - Exit VendingSystem

@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中間ディレクトリ (Debug\) に別のプロジェクト (n1 自動販売機.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  step2c.cpp
+C:\Users\mtuser\Desktop\n1\n1 自動販売機\n1 自動販売機\step2c.cpp(131,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mtuser\Desktop\n1\n1 自動販売機\n1 自動販売機\step2c.cpp(149,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mtuser\Desktop\n1\n1 自動販売機\n1 自動販売機\step2c.cpp(153,18): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mtuser\Desktop\n1\n1 自動販売機\n1 自動販売機\step2c.cpp(222,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mtuser\Desktop\n1\n1 自動販売機\n1 自動販売機\step2c.cpp(232,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  n1 自動販売機.vcxproj -> C:\Users\mtuser\Desktop\n1\n1 自動販売機\Debug\vending_machine.exe

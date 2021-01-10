@@ -1,0 +1,17 @@
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\bin\Debug\SampleVendingMachine.exe.config
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\bin\Debug\SampleVendingMachine.exe
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\bin\Debug\SampleVendingMachine.pdb
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Debug\SampleVendingMachine.csprojAssemblyReference.cache
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Debug\MainWindow.g.cs
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Debug\App.g.cs
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Debug\SampleVendingMachine_MarkupCompile.cache
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Debug\SampleVendingMachine_MarkupCompile.lref
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Debug\MainWindow.baml
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Debug\SampleVendingMachine.g.resources
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Debug\SampleVendingMachine.Properties.Resources.resources
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Debug\SampleVendingMachine.csproj.GenerateResource.cache
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Debug\SampleVendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Debug\SampleVendingMachine.exe
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Debug\SampleVendingMachine.pdb
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Debug\SelectPaymentCoinWindow.g.cs
+C:\Users\Kyosuke\source\repos\SampleVendingMachine\SampleVendingMachine\obj\Debug\SelectPaymentCoinWindow.baml
